@@ -1,7 +1,7 @@
 - 👋, I’m @00xmann.
 - 👀 I’m interested in web development and DBMS.
 - 🌱 I’m currently learning Software Engineering.
-  - 😄 Pronouns:me\he\HIM...
+  - 😄 Pronouns:me\he\HIM.
 - ⚡ Fun fact: i`m not human :)
 
 <!---
