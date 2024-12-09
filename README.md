@@ -1,7 +1,7 @@
-- 👋, I’m @00xmann.
-- 👀 I’m interested in web development and cloud.
-- 🌱 I’m currently learning Software Engineering.
-  - 😄 Pronouns:me\HIM.
+-  I’m @00xmann.
+-  I’m interested in web development and cloud.
+-  I’m currently learning Software Engineering.
+  
 - ⚡ Fun fact: i`m not human :)
 
 <!---
