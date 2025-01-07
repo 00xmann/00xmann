@@ -1,5 +1,5 @@
 .
-Frontend development||Data analysis:)
+Frontend development||App development:)
 .
 
 00xmann/00xmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
